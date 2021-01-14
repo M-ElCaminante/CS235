@@ -1,0 +1,13 @@
+createArray 10 True
+addToArray 10 True
+addToArray 9 True
+addToArray 8 True
+addToArray 7 True
+addToArray 6 True
+addToArray 5 True
+addToArray 4 True
+addToArray 3 True
+addToArray 2 True
+addToArray 1 True
+getArray
+ 

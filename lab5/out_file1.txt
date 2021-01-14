@@ -1,0 +1,8 @@
+createArray 5 True
+addToArray 1 True
+addToArray 2 True
+addToArray 3 True
+addToArray 4 True
+addToArray 5 True
+getArray
+ 
