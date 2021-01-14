@@ -1,0 +1,125 @@
+Add 1 True
+Add 2 True
+Add 3 True
+PrintBST
+0:  3 
+
+Add 3 True
+Add 2 True
+Add 1 True
+PrintBST
+0:  1 
+
+Remove 5 True
+Remove 4 True
+PrintBST
+0:  1 
+
+Remove 3 True
+PrintBST
+0:  1 
+
+Remove 2 True
+PrintBST
+0:  1 
+
+Remove 3 True
+Remove 2 True
+PrintBST
+0:  1 
+
+Remove 1 True
+PrintBST
+0:  1 
+
+Add 8 True
+Add 12 True
+Add 14 True
+Add 15 True
+Add 13 True
+Add 10 True
+Add 11 True
+Add 9 True
+Add 4 True
+Add 6 True
+Add 5 True
+Add 7 True
+Add 2 True
+Add 3 True
+Add 1 True
+PrintBST
+0:  1 
+
+Clear
+Add 1 True
+Add 2 True
+Add 3 True
+Add 4 True
+Add 5 True
+Add 6 True
+Add 7 True
+Add 8 True
+Add 9 True
+Add 10 True
+Add 11 True
+Add 12 True
+Add 13 True
+Add 14 True
+Add 15 True
+PrintBST
+0:  15 
+
+Clear
+Add 15 True
+Add 14 True
+Add 7 True
+Add 5 True
+Add 9 True
+Add 3 True
+Add 6 True
+Add 8 True
+Add 12 True
+Add 1 True
+Add 11 True
+Add 13 True
+Add 2 True
+Add 10 True
+PrintBST
+0:  10 
+
+Remove 3 True
+PrintBST
+0:  10 
+
+Remove 5 True
+PrintBST
+0:  10 
+
+Remove 2 True
+PrintBST
+0:  10 
+
+Remove 8 True
+PrintBST
+0:  10 
+
+Remove 9 True
+PrintBST
+0:  10 
+
+Remove 7 True
+PrintBST
+0:  10 
+
+Remove 1 True
+PrintBST
+0:  10 
+
+Remove 6 True
+PrintBST
+0:  10 
+
+Remove 14 True
+PrintBST
+0:  10 
+
