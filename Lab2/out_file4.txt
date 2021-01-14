@@ -1,0 +1,4 @@
+infixToPostfix 40 * ( 2 + 4 - ( 2 + 2 ) ) - 4 / 5 / 6
+  invalid
+infixToPostfix ( 3 + 2 + 13 ) / 4
+  invalid
